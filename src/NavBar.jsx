@@ -53,6 +53,7 @@ const NavBar = () => {
         background: `rgba(20, 10, 0,0.6)`,
         padding: `$10px 0px`,
         boxShadow: `rgb(0 0 0}) 0px 0px 20px 6px`,
+        padding: "2%",
       }}>
         <div>
           <a href="/">
